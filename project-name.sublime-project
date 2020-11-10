@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "~/vhosts/${projectName}",
+			"name": "vhost"
+		},
+		{
+			"path": "~/repos/${projectName}",
+			"name": "working-copy"
+		}
+	]
+}
