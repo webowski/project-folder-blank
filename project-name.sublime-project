@@ -5,7 +5,7 @@
 			"path": "."
 		},
 		{
-			"path": "~/vhosts/${projectName}",
+			"path": "~/vhosts/${projectName}.loc",
 			"name": "vhost"
 		},
 		{
