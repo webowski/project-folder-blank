@@ -5,11 +5,11 @@
 			"path": "."
 		},
 		{
-			"path": "~/vhosts/${projectName}.loc",
+			"path": "${vhostPath}",
 			"name": "vhost"
 		},
 		{
-			"path": "~/repos/${projectName}",
+			"path": "${repoPath}",
 			"name": "working-copy"
 		}
 	]
