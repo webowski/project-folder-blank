@@ -6,6 +6,10 @@
 		{
 			"path": "${vhostPath}",
 			"name": "vhost"
+		},
+		{
+			"path": "${repoPath}",
+			"name": "working-copy"
 		}
 	],
 	"settings": {}
